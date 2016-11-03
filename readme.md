@@ -1,5 +1,1 @@
-compare: 
-	gcc xx.h -o xx
-
-run: 
-	./xx
+# data_structure_in_c
